@@ -1,0 +1,17 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+flask
+imbalanced-learn
+imblearn
+plotly
+pdfkit
+fpdf
+dash-daq
+kaleido
+flask_cors
+keras
+tensorflow
+pickle
+requests
